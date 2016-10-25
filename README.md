@@ -57,9 +57,9 @@ Embedding the ANE:
 2. Air SDK 22 or higher
 
 # Commercial Version
-http://www.myflashlabs.com/product/badge-air-native-extension/
+http://www.myflashlabs.com/product/app-badge-air-native-extension/
 
-![Badge ANE](http://www.myflashlabs.com/wp-content/uploads/2016/10/product_adobe-air-ane-extension-badge-595x738.jpg)
+![Badge ANE](http://www.myflashlabs.com/wp-content/uploads/2016/10/product_adobe-air-ane-extension-badge-2-595x738.jpg)
 
 # Changelog
 *Oct 23, 2016 - V1.0.0*

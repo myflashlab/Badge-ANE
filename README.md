@@ -1,4 +1,4 @@
-# Badge ANE V1.0.0 for iOS
+# Badge ANE V1.1.0 for iOS
 With Badge ANE you can read and write badge values for your iOS apps.
 
 # asdoc
@@ -48,6 +48,9 @@ Embedding the ANE:
 	
 	<extensionID>com.myflashlab.air.extensions.badge</extensionID>
 	
+	<!-- download the dependency ANEs from https://github.com/myflashlab/common-dependencies-ANE -->
+	<extensionID>com.myflashlab.air.extensions.dependency.overrideAir</extensionID>
+	
   </extensions>
 -->
 ```
@@ -55,6 +58,7 @@ Embedding the ANE:
 # Requirements 
 1. iOS SDK 8.0 or higher
 2. Air SDK 22 or higher
+3. This ANE is dependent on overrideAir.ane You need to add these ANEs to your project too. [Download them from here](https://github.com/myflashlab/common-dependencies-ANE).
 
 # Commercial Version
 http://www.myflashlabs.com/product/app-badge-air-native-extension/
@@ -62,5 +66,8 @@ http://www.myflashlabs.com/product/app-badge-air-native-extension/
 ![Badge ANE](http://www.myflashlabs.com/wp-content/uploads/2016/10/product_adobe-air-ane-extension-badge-2-595x738.jpg)
 
 # Changelog
+*Mar 10, 2017 - V1.1.0*
+* This ANE is dependent on overrideAir.ane You need to add these ANEs to your project too. [Download them from here](https://github.com/myflashlab/common-dependencies-ANE).
+
 *Oct 23, 2016 - V1.0.0*
 * beginning of the journey!

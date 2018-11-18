@@ -1,5 +1,9 @@
 Badge Air Native Extension
 
+*Nov 16, 2018 - V1.1.4*
+* Works with OverrideAir ANE V5.6.1 or higher
+* Works with ANELAB V1.1.26 or higher
+
 *Dec 15, 2017 - V1.1.1*
 * Optimized for [ANE-LAB](https://github.com/myflashlab/ANE-LAB/).
 

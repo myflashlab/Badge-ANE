@@ -1,4 +1,4 @@
-# Badge ANE V1.1.1 for iOS
+# Badge ANE V1.1.4 for iOS
 With Badge ANE you can read and write badge values for your iOS apps.
 
 # asdoc
@@ -65,6 +65,10 @@ http://www.myflashlabs.com/product/app-badge-air-native-extension/
 ![Badge ANE](http://www.myflashlabs.com/wp-content/uploads/2016/10/product_adobe-air-ane-extension-badge-2-595x738.jpg)
 
 # Changelog
+*Nov 16, 2018 - V1.1.4*
+* Works with OverrideAir ANE V5.6.1 or higher
+* Works with ANELAB V1.1.26 or higher
+
 *Dec 15, 2017 - V1.1.1*
 * Optimized for [ANE-LAB](https://github.com/myflashlab/ANE-LAB/).
 

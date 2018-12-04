@@ -60,9 +60,9 @@ Embedding the ANE:
 3. This ANE is dependent on overrideAir.ane You need to add these ANEs to your project too. [Download them from here](https://github.com/myflashlab/common-dependencies-ANE).
 
 # Commercial Version
-http://www.myflashlabs.com/product/app-badge-air-native-extension/
+https://www.myflashlabs.com/product/app-badge-air-native-extension/
 
-![Badge ANE](http://www.myflashlabs.com/wp-content/uploads/2016/10/product_adobe-air-ane-extension-badge-2-595x738.jpg)
+[![Badge ANE](https://www.myflashlabs.com/wp-content/uploads/2016/10/product_adobe-air-ane-extension-badge-2018-595x738.jpg)](https://www.myflashlabs.com/product/app-badge-air-native-extension/)
 
 # Changelog
 *Nov 16, 2018 - V1.1.4*

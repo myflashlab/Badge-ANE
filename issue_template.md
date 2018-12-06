@@ -1,17 +1,1 @@
-## Environment ##
-* Android Version:
-* iOS Version:
-* AIR Version:
-
-## Problem Description ##
-```xml
-Copy your manifest .xml file.
-```
-```actionscript
-Copy your Actionscript code.
-```
-
-## Steps to Reproduce ##
-
-
-## Known Workarounds ##
+**NOTICE:** This ANE is now opensourced. If you need our professional help, [check here](https://github.com/myflashlab/Badge-ANE/#tech-support).

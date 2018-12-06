@@ -1,10 +1,17 @@
-# Badge ANE V1.1.4 for iOS
+# Badge ANE for iOS Adobe AIR apps #
 With Badge ANE you can read and write badge values for your iOS apps.
 
-# asdoc
-[find the latest asdoc for this ANE here.](http://myflashlab.github.io/asdoc/index.html?com/myflashlab/air/extensions/badge/package-detail.html)  
+* [Click here for ASDOC](http://myflashlab.github.io/asdoc/index.html?com/myflashlab/air/extensions/badge/package-detail.html)
+* [See the ANE setup requirements](https://github.com/myflashlab/Badge-ANE/blob/master/src/ANE/extension.xml)
 
-[Download demo ANE](https://github.com/myflashlab/Badge-ANE/tree/master/AIR/lib)
+**IMPORTANT:** Implementing ANEs in your AIR projects means you may be required to add some [dependencies](https://github.com/myflashlab/common-dependencies-ANE) or copy some frameworks or editing your app's manifest file. Our ANE setup instruction is designed in a human-readable format but you may still need to familiarize yourself with this format. [Read this post for more information](https://www.myflashlabs.com/understanding-ane-setup-instruction/)
+
+If you think manually setting up ANEs in your projects is confusing or time-consuming, you better check the [ANELAB Software](https://github.com/myflashlab/ANE-LAB/).
+
+[![The ANE-LAB Software](https://www.myflashlabs.com/wp-content/uploads/2017/12/myflashlabs-ANE-LAB_features.jpg)](https://github.com/myflashlab/ANE-LAB/)
+
+# Tech Support #
+If you need our professional support to help you with implementing and using the ANE in your project, you can join [MyFlashLabs Club](https://www.myflashlabs.com/product/myflashlabs-club-membership/) or buy a [premium support package](https://www.myflashlabs.com/product/myflashlabs-support/). Otherwise, you may create new issues at this repository and the community might help you.
 
 # Air Usage
 ```actionscript
@@ -21,59 +28,16 @@ trace("current badge is: " + Badge.value);
 Badge.value = 2;
 ```
 
-# Air .xml manifest
-```xml
-<!--
-FOR iOS:
--->
-	<InfoAdditions>
-		
-		<!--
-			iOS 8.0 or higher can support this ANE
-		-->
-		<key>MinimumOSVersion</key>
-		<string>8.0</string>
-		
-	</InfoAdditions>
-	
-	
-	
-	
-	
-<!--
-Embedding the ANE:
--->
-  <extensions>
-	
-	<extensionID>com.myflashlab.air.extensions.badge</extensionID>
-	
-	<!-- download the dependency ANEs from https://github.com/myflashlab/common-dependencies-ANE -->
-	<extensionID>com.myflashlab.air.extensions.dependency.overrideAir</extensionID>
-	
-  </extensions>
--->
-```
+Are you using this ANE in your project? Maybe you'd like to buy us a beer :beer:?
 
-# Requirements 
-1. iOS SDK 8.0 or higher
-2. Air SDK 22 or higher
-3. This ANE is dependent on overrideAir.ane You need to add these ANEs to your project too. [Download them from here](https://github.com/myflashlab/common-dependencies-ANE).
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=payments@myflashlabs.com&lc=US&item_name=Donation+to+Badge+ANE&no_note=0&cn=&currency_code=USD&bn=PP-DonationsBF:btn_donateCC_LG.gif:NonHosted)
 
-# Commercial Version
-https://www.myflashlabs.com/product/app-badge-air-native-extension/
+Add your name to the below list? Donate anything more than $100 and it will be.
 
-[![Badge ANE](https://www.myflashlabs.com/wp-content/uploads/2016/10/product_adobe-air-ane-extension-badge-2018-595x738.jpg)](https://www.myflashlabs.com/product/app-badge-air-native-extension/)
-
-# Changelog
-*Nov 16, 2018 - V1.1.4*
-* Works with OverrideAir ANE V5.6.1 or higher
-* Works with ANELAB V1.1.26 or higher
-
-*Dec 15, 2017 - V1.1.1*
-* Optimized for [ANE-LAB](https://github.com/myflashlab/ANE-LAB/).
-
-*Mar 10, 2017 - V1.1.0*
-* This ANE is dependent on overrideAir.ane You need to add these ANEs to your project too. [Download them from here](https://github.com/myflashlab/common-dependencies-ANE).
-
-*Oct 23, 2016 - V1.0.0*
-* beginning of the journey!
+## Sponsored by... ##
+<table align="left">
+    <tr>
+        <td align="left"><img src="https://via.placeholder.com/128?text=LOGO" width="60" height="60"></td>
+        <td align="left"><a href="#">your_website.com</a><br>Your company motto can be here!</td>
+    </tr>
+</table>

@@ -1,5 +1,8 @@
 Badge Air Native Extension
 
+*Aug 2, 2019 - V1.1.41*
+* Supports iOS 10+
+
 *Nov 16, 2018 - V1.1.4*
 * Works with OverrideAir ANE V5.6.1 or higher
 * Works with ANELAB V1.1.26 or higher

@@ -1,1 +1,7 @@
-<platform xmlns="http://ns.adobe.com/air/extension/20.0">	<packagedResources>			</packagedResources>	</platform>
+<platform xmlns="http://ns.adobe.com/air/extension/29.0">
+
+	<packagedResources>
+		
+	</packagedResources>
+	
+</platform>

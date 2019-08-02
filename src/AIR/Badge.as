@@ -13,8 +13,10 @@ import flash.utils.getQualifiedClassName;
  */
 public class Badge
 {
+	private static const DEMO_ANE:Boolean = true;
+	
 	public static const EXTENSION_ID:String = "com.myflashlab.air.extensions.badge";
-	public static const VERSION:String = "1.1.4";
+	public static const VERSION:String = "1.1.41";
 	private var _context:ExtensionContext;
 	
 	private var OverrideClass:Class;
@@ -67,10 +69,5 @@ public class Badge
 		
 		_ex._context.call("command", "writeBadge", a);
 	}
-	
-	// ------------------------------------------------------------------------------------------------------------------------------------ Check Club Member
-	
-	/** @private */
-	internal static const DEMO_ANE:Boolean = true;
 }
 }

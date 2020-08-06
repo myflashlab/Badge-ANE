@@ -1,4 +1,8 @@
-Badge Air Native Extension
+# Badge Air Native Extension
+
+*Aug 04, 2020 - v2.0.0*
+- Upgrade dependencies to the latest versions.
+- Fixed some minor issues and refacor native codes.
 
 *Aug 2, 2019 - V1.1.41*
 * Supports iOS 10+
